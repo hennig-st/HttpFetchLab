@@ -1,6 +1,14 @@
 # HttpFetchLab
 
-Dieses Repository dient dazu, die Fetch API in JavaScript besser zu verstehen und den Datenaustausch zwischen Client und Server nachzuvollziehen.
+Dieses Repository dient dazu : 
+*  fetch()
+*  HTTP
+*  Response-Objekte
+*  Header
+*  Statuscodes
+*  JSON/Text-Parsing
+
+besser zu verstehen
 
 ## Aktueller Stand:
 
